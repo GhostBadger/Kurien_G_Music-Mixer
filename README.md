@@ -3,7 +3,7 @@
 
 ## Project Description
 
-A music mixer site which follows the example of incredibox.com. Allows users to create a drum pattern using basic sounds from a drum set such as the base drum, snare, toms, cymbals in a sequence using 16 slots that repeats itself when the sequence is finished. Afterwards, the User chooses another instrument and creates a 16 spot sequence. These two seqences are played at the same time to create a small song the becomes the sum of both parts. In order to add a selection to the sequence, a drag and drop functionality will be added.
+A music mixer site which follows the example of incredibox.com. Allows users to create a drum pattern using basic sounds from a drum set such as the base drum, snare, toms, cymbals in a sequence using 8 or 16 slots that repeats itself when the sequence is finished. Afterwards, the User chooses another instrument and creates a 16 spot sequence. These two seqences are played at the same time to create a small song the becomes the sum of both parts. In order to add a selection to the sequence, a drag and drop functionality will be added.
 
 
 ## Installation 
@@ -14,14 +14,14 @@ In order to run this website you will need to download the complete project fold
 
 You just need a functioning browser to use this site.
 
-## Support
-
-If you have any issues contact me at "g_kurien@fanshaweonline.ca" or "georgeykurien@gmail.com"
-
 
 ## Creator
 
 Georgey Kurien
+
+## Contact
+
+If you have any issues contact me at "g_kurien@fanshaweonline.ca" or "georgeykurien@gmail.com"
 
 ## License
 
